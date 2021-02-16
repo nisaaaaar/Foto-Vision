@@ -46,7 +46,8 @@
     "uglifyjs": "^2.4.11",
     "usemin-cli": "^0.5.1",
     "copyfiles" : "^2.0.0",
-    "imagemin-cli" : "^3.0.0"
+    "imagemin-cli" : "^3.0.0",
+    "connect-history-api-fallback" : "^1.6.0"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
